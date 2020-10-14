@@ -1,2 +1,2 @@
 # GoFo_System
- FootBall booking system built with Java
+ FootBall playground booking system built with Java - OOP style
